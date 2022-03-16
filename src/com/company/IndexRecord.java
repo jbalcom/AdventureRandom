@@ -1,3 +1,5 @@
+package com.company;
+
 public class IndexRecord {
     private int startByte;
     private int length;
